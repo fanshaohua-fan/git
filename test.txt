@@ -2,5 +2,5 @@
 fansh
 lizhe
 
-Git is free software distributed under the GPL.
+Git is a free software distributed under the GPL.
 Git tracks changes.
