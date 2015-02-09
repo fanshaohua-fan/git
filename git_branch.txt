@@ -1,0 +1,4 @@
+git branch
+
+#track the remote branch
+git branch -u origin/branch-name
